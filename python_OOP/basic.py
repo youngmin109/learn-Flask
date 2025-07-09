@@ -22,7 +22,6 @@ class Calculator:
     # init 메서드는 클래스가 인스턴스화될 때 호출됨
     # 자바에서 생성자와 유사
     def __init__(self, num1, num2):
-        
         self.num1 = num1 # 인스턴스 변수
         self.num2 = num2
     # 메서드는 클래스의 일부로 정의됨
